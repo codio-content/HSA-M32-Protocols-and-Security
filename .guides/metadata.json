@@ -1,0 +1,375 @@
+{
+ "sections": [
+  {
+   "id": "d08ffd56-6e27-132a-18fa-fd037413094f",
+   "title": "Protocols",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Protocols-d08f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "378edede-73fd-24da-ea16-fd5fd99ea2ef",
+   "title": "Mail Protocols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Mail-Protocols-378e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9f3ecb1f-550f-0c45-8457-0052cc43cf0b",
+   "title": "Username Protocols",
+   "files": [
+    {
+     "path": "Protocols/Username.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Username-Protocols-9f3e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fc99d1d3-6b9e-283d-b70b-5e0c6e3458d1",
+   "title": "Protocols Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Protocols-Quiz-fc99.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "248f11a0-2c82-417d-2dcf-9c4428a0137e",
+   "title": "Cyber Security",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cyber-Security-248f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cfff0f86-df83-0b61-031d-0972032771a6",
+   "title": "Security vs. Privacy",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Security-vs--Privacy-cfff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "adeb46e4-ba68-3d96-d3a6-db0215c5cf5f",
+   "title": "Security Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Security-Quiz-adeb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0c7bc458-7302-4a70-4743-85d34f8e0c69",
+   "title": "C-I-A Principle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/C-I-A-Principle-0c7b.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0ac5ae3d-55a4-e683-0283-c0851443a505",
+   "title": "C-I-A as goal",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/C-I-A-as-goal-0ac5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41df06f7-6c47-473e-0d5b-ffa6eb221bb3",
+   "title": "Parity Detection",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "CIA/TestEven.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Parity-Detection-41df.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2cba6889-3c43-65c6-56da-b3f877a6349d",
+   "title": "Odd Parity Check",
+   "files": [
+    {
+     "path": "CIA/ParodyCheck.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Odd-Parity-Check-2cba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1833dc22-0238-49d1-7199-72dfeb19313e",
+   "title": "C-I-A Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/C-I-A-Quiz-1833.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "11a3cf97-5919-95dc-4527-449afc02238d",
+   "title": "Data Encryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-Encryption-11a3.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c38f528e-0b89-4b5c-6498-87f001fbadc9",
+   "title": "Caesar Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Encryption/CaesarTest.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Caesar-Cipher-c38f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1d9aaa83-e315-44ca-327a-dfe641a946c9",
+   "title": "Caesar Cipher - Decode",
+   "files": [
+    {
+     "path": "Encryption/CaesarCipher.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Caesar-Cipher---Decode-1d9a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "865100b2-4361-7d0d-8b6a-440c74d546fe",
+   "title": "Vigenere Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Vigenere-Cipher-8651.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d875bd6-f1cd-20fa-3459-e6b5ada2baac",
+   "title": "Testing Vigenere Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "Encryption/VigenereTest.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Testing-Vigenere-Cipher-3d87.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4d1d8a17-596c-5a96-d2b0-be901c0b5f68",
+   "title": "Cipher Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cipher-Quiz-4d1d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "82461e31-68c1-8ca9-c21d-d490e150dbbe",
+   "title": "Web Security",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Web-Security-8246.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f97e22eb-0237-40d5-f95c-1848cf05e00d",
+   "title": "Secure Web Pages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Secure-Web-Pages-f97e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41350577-c5f5-b4e2-efc0-b4b956f7548a",
+   "title": "Secure Facilities",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Secure-Facilities-4135.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cc2731f5-0f90-998e-67f2-b78ef130dfcd",
+   "title": "Security Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Security-Quiz-cc27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

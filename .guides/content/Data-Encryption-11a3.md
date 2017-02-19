@@ -1,0 +1,3 @@
+As long as messages have been written from one person to another, there have been attempts to ensure that other people could not read the message.  There are many ways to change a message to make it difficult or impossible for someone without knowledge of how to decode the text to read it.  
+
+One of the oldest ciphers is the Caesar cipher, named for Julius Caesar who used it in 60 B.C.  In a Caesar cipher, a “key” is chosen by the person who is encoding the message.  The letters of of the encoded message are shifted up the alphabet by the key.  For example, if the key were 3, an A would be shifted 3 spaces to a D.  This process is followed for each letter in the message.

@@ -1,0 +1,3 @@
+Imagine that you want to make your house more secure.  You decide that adding locks to your front door will make it more secure so you now have four locks.  Your house is more secure!  If a thief were to try to break in it would take more work, perhaps they will be thwarted entirely.
+
+What is the downside?  You now have to unlock and lock four locks every time you come or go.  Increased security often comes at a cost.  Security in computing has similar trade-offs.  It may take more time to access your data, require passwords or other authentication, or there may be times or places where your data is not available.
